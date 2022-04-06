@@ -1,0 +1,17 @@
+#define LEVEL	0
+#define STATE	1
+
+#define ENABLE	1
+#define DISABLE	0
+
+/* Configuration Functions */
+void config_gpiox(GPIORegDef *gpiox, int pin, int mode, int speed);
+
+/* Input Functions */
+int gpiox_read_pin(GPIORegDef *gpiox, int pin, int mode);
+
+/* Interrupt Related Functions */
+void config_gpio_irq_priority(unsigned char irq_number, unsigned char irq_priority);
+void config_gpio_interrupt(unsigned char irq_number, unsigned char state);
+
+#endif
