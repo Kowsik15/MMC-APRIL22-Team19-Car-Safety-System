@@ -12,9 +12,9 @@ A Collision Avoidance System is an advanced driver assistance system designed to
 |------|------|
 |HLR_01|    |
 |HLR_02|    |
-|HLR_02|    |
 |HLR_03|    |
 |HLR_04|    |
+|HLR_05|    |
 
 ## 4. Low Level Requirements
 |ID|ID|Description|
@@ -27,7 +27,7 @@ A Collision Avoidance System is an advanced driver assistance system designed to
 ||LLR_02|       |
 |HLR_04|LLR_01|     |              
 ||LLR_02|       |
-|HLR_04|LLR_01|     |              
+|HLR_05|LLR_01|     |              
 ||LLR_02|       |
 
 
