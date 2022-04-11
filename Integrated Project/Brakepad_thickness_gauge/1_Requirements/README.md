@@ -1,4 +1,4 @@
-# BRAKEPAD_THICKNESS_GAUGE:
+# BRAKEPAD_THICKNESS_GAUGE
 ## Description
 A  Brakepad Thickness Guage is  Smart  system which uses the rpm of the car to measure the Brakepad thickness.This system helps the automobile from accidents.The thickness of the brake pads are displayed on the display that allowing driver to quickly check  the thickness of brake pad material.
 
