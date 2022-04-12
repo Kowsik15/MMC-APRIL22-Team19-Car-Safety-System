@@ -23,7 +23,7 @@ Human ears can hear sound waves that vibrate in the range from about 20 times a 
 At its core, the HC-SR04 Ultrasonic distance sensor consists of two ultrasonic transducers. The one acts as a transmitter which converts electrical signal into 40 KHz ultrasonic sound pulses. The receiver listens for the transmitted pulses. If it receives them it produces an output pulse whose width can be used to determine the distance the pulse travelled. As simple as pie!
 
 The sensor is small, easy to use in any robotics project and offers excellent non-contact range detection between 2 cm to 400 cm (that’s about an inch to 13 feet) with an accuracy of 3mm. Since it operates on 5 volts, it can be hooked directly to an Arduino or any other 5V logic microcontrollers.
-S.NO|NAME|
+Spec|Range|
 |-|-|
 Operating Voltage	|DC 5V|
 Operating Current |15mA| 
@@ -140,18 +140,20 @@ In view of the environmental concerns of using Cadmium, this material is not use
 #### Types of photoresistor
 Light dependent resistors, LDRs or photoresistors fall into one of two types or categories:
 
-Intrinsic photoresistors:   Intrinsic photoresistors use un-doped semiconductor materials including silicon or germanium. Photons fall on the LDR excite electrons moving them from the valence band to the conduction band. As a result, these electrons are free to conduct electricity. The more light that falls on the device, the more electrons are liberated and the greater the level of conductivity, and this results in a lower level of resistance.
-Extrinsic photoresistors:   Extrinsic photoresistors are manufactured from semiconductor of materials doped with impurities. These impurities or dopants create a new energy band above the existing valence band. As a result, electrons need less energy to transfer to the conduction band because of the smaller energy gap.
+#### a)Intrinsic photoresistors:   
+Intrinsic photoresistors use un-doped semiconductor materials including silicon or germanium. Photons fall on the LDR excite electrons moving them from the valence band to the conduction band. As a result, these electrons are free to conduct electricity. The more light that falls on the device, the more electrons are liberated and the greater the level of conductivity, and this results in a lower level of resistance.
+#### b)Extrinsic photoresistors:  
+Extrinsic photoresistors are manufactured from semiconductor of materials doped with impurities. These impurities or dopants create a new energy band above the existing valence band. As a result, electrons need less energy to transfer to the conduction band because of the smaller energy gap.
 Regardless of the type of light dependent resistor or photoresistor, both types exhibit an increase in conductivity or fall in resistance with increasing levels of incident light.
 
-LDR frequency dependence
+#### LDR frequency dependence
 The sensitivity of photoresistors is shown to vary with the wavelength of the light that is impacting the sensitive area of the device. The effect is very marked and it is found that if the wavelength is outside a given range then there is no noticeable effect.
 
 Devices made from different materials respond differently to light of different wavelengths, and this means that the different electronics components can be used for different applications.
 
 It is also found that extrinsic photoresists tend to be more sensitive to longer wavelength light and can be used for infrared. However when working with infrared, care must be taken to avoid heat build-up caused but he elating effect of the radiation.
 
-Photoresistor / light dependent resistor latency
+#### Photoresistor / light dependent resistor latency
 One important aspect associated with photoresistors or light dependent resistors is that of the latency, or the time taken for the electronic component to respond to any changes. This aspect can be particularly important for a circuit design.
 
 It takes a noticeable amount of time from any changes in light level before the LDR / photoresistor attains its final value for the new level of light and for this reason the LDR / photo resistor is not a good choice where there are reasonably rapid changing values of light. However when the light changes take place over a period of time they are more than adequate.
@@ -162,13 +164,25 @@ The rate at which the resistance changes is called the resistance recovery rate.
 
 It is for this reason that one of the specifications normally quoted in the electronic component datasheets for photo-resistors is the dark resistance after a given time, typically in seconds. Often two values are quoted, one for one second and another for five seconds. These given an indication of the latency of the resistor.
 
-Photoresistor applications
+#### Photoresistor applications
 Photoresistors are found in many different applications and can be seen in many different electronic circuit designs. They have a very simple structure and they are low cost and rugged devices. They are widely used in many different items of electronic equipment and circuit designs including photographic light meters, fire or smoke alarms as well as burglar alarms, and they also find uses as lighting controls for street lamps.
 
 Extrinsic photoresistors are provide sensitivity for longer wavelengths and as a result they are popular in various electronic circuit designs as info-red photodetectors. Photoresistors can also be used to detect nuclear radiation.
 
-Light dependent resistor specifications
+#### Light dependent resistor specifications
 There are several specifications that are important for light dependent resistors, LDRs / photoresistors when considering their use in any electronic circuit design.
+
+Parameter|Details|
+|-|-|
+Max power dissipation		|This is the maximum power the device is able to dissipate within a given temperature range. Derating may be applicable above a certain temperature.|
+Operating Current |15mA| 
+Operating Frequency	|40KHz| 
+Max Range	|4m| 
+Min Range	|2cm| 
+Ranging Accuracy |3mm|
+Measuring Angle	|15 degree| 
+Trigger Input Signal |10µS TTL pulse|
+Dimension	|45 x 20 x 15mm|
 
 
 ###
