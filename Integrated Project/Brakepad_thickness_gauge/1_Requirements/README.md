@@ -174,7 +174,7 @@ The reset button is now next to the USB connector, making it more accessible whe
 |HLR_02|LLR_01|    the exact thickness need to display |      Implemented |  
 ||LLR_02|   continous display    | Not Implemented |
 |HLR_03|LLR_01|    buzzer alert for low thickness |     Implemented |          
-||LLR_02|     | no alert for thickness higher than threeshold value |   
+||LLR_02|   no alert for thickness higher than threeshold value  | Implemented |   
 
 
 
