@@ -216,7 +216,7 @@ The USB controller chip changed from ATmega8U2 (8K flash) to ATmega16U2 (16K fla
 Three new pins were added, all of which are duplicates of previous pins. The I2C pins (A4, A5) have been also been brought out on the side of the board near AREF. There is a IOREF pin next to the reset pin, which is a duplicate of the 5V pin.
 The reset button is now next to the USB connector, making it more accessible when a shield is used.
 
-|         |          |
+|      sdfghjk   |    erfgthjkl;';lkjhg      |
 |---------------------|----------------------|
 |         |          |
 |         |          |
