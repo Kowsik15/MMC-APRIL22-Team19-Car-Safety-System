@@ -23,6 +23,18 @@ Human ears can hear sound waves that vibrate in the range from about 20 times a 
 At its core, the HC-SR04 Ultrasonic distance sensor consists of two ultrasonic transducers. The one acts as a transmitter which converts electrical signal into 40 KHz ultrasonic sound pulses. The receiver listens for the transmitted pulses. If it receives them it produces an output pulse whose width can be used to determine the distance the pulse travelled. As simple as pie!
 
 The sensor is small, easy to use in any robotics project and offers excellent non-contact range detection between 2 cm to 400 cm (that’s about an inch to 13 feet) with an accuracy of 3mm. Since it operates on 5 volts, it can be hooked directly to an Arduino or any other 5V logic microcontrollers.
+S.NO|NAME|
+|-|-|
+1|Akula Venkata SaiKumar|
+2|Gurram Manikanta| 
+3|Hrishikesh Anand| 
+4|Jithesh Kumar| 
+5|Kowsik| 
+6|Nithin|
+7|Raj Prasanth Karunanidhi| 
+8|Savitha|
+9|Shailesh Jayaprakash|
+
 ###
 ###
 ###
