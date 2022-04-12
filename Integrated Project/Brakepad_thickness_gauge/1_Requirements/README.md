@@ -159,28 +159,22 @@ The reset button is now next to the USB connector, making it more accessible whe
 
 
 ## 3. High Level Requirements
-|ID|Description|
-|------|------|
-|HLR_01|    |
-|HLR_02|    |
-|HLR_03|    |
-|HLR_04|    |
-|HLR_05|    |
+|ID|Description| Status |
+|------|------| ----- |
+|HLR_01|   thickness measurment | Implemented |
+|HLR_02| Display the thickness   | Implemented |
+|HLR_03|  Warning for low thickness   | Implemented |
+
 
 ## 4. Low Level Requirements
-|ID|ID|Description|
-|------|------|------|
-|HLR_01|LLR_01|     |
-||LLR_02|       |
-|HLR_02|LLR_01|     |       
-||LLR_02|       |
-|HLR_03|LLR_01|     |              
-||LLR_02|       |
-|HLR_04|LLR_01|     |              
-||LLR_02|       |
-|HLR_05|LLR_01|     |              
-||LLR_02|       |
-
+|ID|ID|Description| status |
+|------|------|------| ------ |
+|HLR_01|LLR_01|     | Implemented |
+||LLR_02|       | Implemented |
+|HLR_02|LLR_01|     |      Implemented |  
+||LLR_02|       |  Implemented |
+|HLR_03|LLR_01|     |     Implemented |          
+||LLR_02|     |  Implemented |   
 
 
 
