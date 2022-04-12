@@ -108,6 +108,9 @@ Circuit symbols used for the light dependent resistor, LDR or photoresistor for 
 Photoresistor / light dependent resistor circuit symbols
 The light dependent resistor / photoresistor circuit symbols are shown for both the newer style resistor symbol, i.e. a rectangular box and the older zig-zag line resistor circuit symbols.
 
+![light-dependent-resistor-symbol](https://user-images.githubusercontent.com/73667634/162891667-5b846c42-d0f7-46f6-ace4-ca233e73ec20.gif)
+
+
 Often the light dependent resistor symbol may be shown without the circle around it. This is often done on the electronic circuit schematic to save space and reduce the number of lines and circles ont he diagram to redice complication.
 
 #### How an LDR works
