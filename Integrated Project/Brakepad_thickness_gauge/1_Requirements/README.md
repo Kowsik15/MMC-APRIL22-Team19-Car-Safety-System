@@ -66,6 +66,26 @@ Dimension	|45 x 20 x 15mm|
 ### How Does HC-SR04 Ultrasonic Distance Sensor Work?
 It all starts, when a pulse of at least 10 µS (10 microseconds) in duration is applied to the Trigger pin. In response to that the sensor transmits a sonic burst of eight pulses at 40 KHz. This 8-pulse pattern makes the “ultrasonic signature” from the device unique, allowing the receiver to differentiate the transmitted pattern from the ambient ultrasonic noise.
 
+The width of the received pulse is then used to calculate the distance to the reflected object. This can be worked out using simple distance-speed-time equation, we learned in High school. In case you forgot, an easy way to remember the distance, speed and time equations is to put the letters into a triangle.
+
+![Distance-Speed-Time-Formula-Triangle](https://user-images.githubusercontent.com/73667634/162880717-675d220f-75b0-4551-807a-933756aa5116.png)
+
+We will use the below equation.
+
+                                                               Distance = Speed x Time
+
+Here, we have the value of Time i.e. 500 µs and we know the speed. What speed do we have? The speed of sound, of course! Its 340 m/s. We have to convert the speed of sound into cm/µs in order to calculate the distance. A quick Google search for “speed of sound in centimeters per microsecond” will say that it is 0.034 cm/µs. You could do the math, but searching it is easier. Anyway, with that information, we can calculate the distance!
+
+                                                               Distance = 0.034 cm/µs x 500 µs
+
+But this is not done! Remember that the pulse indicates the time it took for the signal to be sent out and reflected back so to get the distance so, you’ll need to divide your result in half.
+
+                                                            Distance = (0.034 cm/µs x 500 µs) / 2
+
+                                                                       Distance = 8.5 cm
+
+So, now we know that the object is 8.5 centimeters away from the sensor.
+
 
 ## SWOT ANALYSIS
 ![swot](https://user-images.githubusercontent.com/98877131/162888560-8921b5af-6a05-410f-8ce5-410b9e394b1d.png)
