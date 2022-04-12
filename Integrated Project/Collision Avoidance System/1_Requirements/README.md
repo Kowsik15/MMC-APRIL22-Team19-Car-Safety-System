@@ -117,12 +117,13 @@ The basic format for a photoresistor is that shown below:
 
 ![resistor-light-dependent-photoresistor-structure-02](https://user-images.githubusercontent.com/73667634/162883386-f72f64f3-c4f5-42c8-88a6-28b2875b723a.svg)
 
-Photoresistor structure
+#### Photoresistor structure
 The active semiconductor region is normally deposited onto a semi-insulating substrate and the active region is normally lightly doped.
 
 In many discrete photoresistor devices, an interdigital pattern is used to increase the area of the photoresistor that is exposed to light. The pattern is cut in the metallisation on the surface of the active area and this lets the light through. The two metallise areas act as the two contacts for the resistor. This area has to be made relatively large because the resistance of the contact to the active area needs to be minimised.
 
-![resistor-light-dependent-photoresistor-structure-02](https://user-images.githubusercontent.com/73667634/162883692-b7c199b5-f81d-4283-b1b3-0d0290217c19.svg)
+![resistor-light-dependent-photoresistor-structure-01](https://user-images.githubusercontent.com/73667634/162883862-f14dec2f-7788-4965-b861-6348282becca.svg)
+
 
 
 
