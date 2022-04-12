@@ -241,8 +241,7 @@ The reset button is now next to the USB connector, making it more accessible whe
 | Recommended           |            | 7 V to 12 V      |
 | input voltage:        |            |                  |
 | Regulator type (5 V): |            | linear           |
-|                       |            |                  |
-| Available  5 V  output  current: | at 3 V in  | —                |
+| Available  5 V  output  current: | at 3 V in  | —     |
 |                       | at 5 V in  | —                |
 |                       | at 7 V in  | 1.0 A            |
 |                       | at 9 V in  | 0.5 A            |
