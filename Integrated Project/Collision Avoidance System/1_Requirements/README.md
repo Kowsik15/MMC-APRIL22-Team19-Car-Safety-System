@@ -74,7 +74,7 @@ So, now we know that the object is 8.5 centimeters away from the sensor.
 ###
 ###
 
-## 3. High Level Requirements
+## High Level Requirements
 |ID|Description|
 |------|------|
 |HLR_01|    |
@@ -83,7 +83,7 @@ So, now we know that the object is 8.5 centimeters away from the sensor.
 |HLR_04|    |
 |HLR_05|    |
 
-## 4. Low Level Requirements
+## Low Level Requirements
 |ID|ID|Description|
 |------|------|------|
 |HLR_01|LLR_01|     |
@@ -97,6 +97,7 @@ So, now we know that the object is 8.5 centimeters away from the sensor.
 |HLR_05|LLR_01|     |              
 ||LLR_02|       |
 
-
+## SWOT Analysis
+![cas1](https://user-images.githubusercontent.com/98897973/162881536-003c36b7-44f6-4cea-916d-32dbcda90965.png)
 
 
