@@ -96,7 +96,9 @@ Although a semiconductor material is used for these photoresistors, they are pur
 
 #### LDR / photoresistor symbol
 The LDR symbol used in electronic circuits is based around the resistor circuit symbol, but shows the light, in the form of arrows shining on it. In this way it follows the same convention used for photodiode and phototransistor circuit symbols where arrows are used to show the light falling on these components.
+
 ![light-dependent-resistor-photoresistor-circuit-symbol](https://user-images.githubusercontent.com/73667634/162882986-6ca27ad2-9952-4cec-89b6-ed7f28b47f96.svg)
+
 Circuit symbols used for the light dependent resistor, LDR or photoresistor for both old and new resistor symbols
 Photoresistor / light dependent resistor circuit symbols
 The light dependent resistor / photoresistor circuit symbols are shown for both the newer style resistor symbol, i.e. a rectangular box and the older zig-zag line resistor circuit symbols.
