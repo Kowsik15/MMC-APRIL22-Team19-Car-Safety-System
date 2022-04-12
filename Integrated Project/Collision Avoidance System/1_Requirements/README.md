@@ -67,7 +67,48 @@ But this is not done! Remember that the pulse indicates the time it took for the
 So, now we know that the object is 8.5 centimeters away from the sensor.
 
 
-###
+### Photoresistor - LDR
+Photoresistors, also known as LDR (light-dependent resistors), are components made of semiconductors.
+
+A photoresistor is sensitive to light. Its resistance decreases when lighting increases. Photoresistors have multiple uses, for example, automatic door opening.
+
+![3-s2 0-B9781785483004500014-f01-15-9781785483004](https://user-images.githubusercontent.com/73667634/162882491-ab032b94-c929-41a5-b1c0-9007675abe9d.jpg)
+
+A further application is for illumination control.
+
+In order to illustrate the functionality of a photoresistor (LDR), the latter can be used for voltage control by light intensity, as indicated by the circuit. The photoresistor (LDR) is inserted in a very simple circuit. The output voltage vS varies as a function of the resistance of the photoresistor.
+
+![3-s2 0-B9781785483004500014-f01-16-9781785483004](https://user-images.githubusercontent.com/73667634/162882622-bbf40901-772b-417b-9b6f-886cc6968dda.jpg)
+
+#### What is light dependent resistor, LDR or photoresistor
+
+A photoresistor or light dependent resistor is an electronic component that is sensitive to light. When light falls upon it, then the resistance changes. Values of the resistance of the LDR may change over many orders of magnitude the value of the resistance falling as the level of light increases.
+
+It is not uncommon for the values of resistance of an LDR or photoresistor to be several megohms in darkness and then to fall to a few hundred ohms in bright light.
+
+With such a wide variation in resistance, LDRs are easy to use and there are many LDR circuits available. The sensitivity of light dependent resistors or photoresistors also varies with the wavelength of the incident light.
+
+LDRs are made from semiconductor materials to enable them to have their light sensitive properties. Many materials can be used, but one popular material for these photoresistors is cadmium sulphide, CdS, although the use of these cells is now restricted in Europe because of environmental issues with the use of cadmium.
+
+Similarly other cadmium based semiconductor materials like cadmium CdSe are also restricted. Other materials that can be used include lead sulphide, PbS and indium antimonide, InSb.
+
+Although a semiconductor material is used for these photoresistors, they are purely passive devices because they do not possess a PN junction, and this separates them from other photodetectors like photodiodes and phototransistors.
+
+#### LDR / photoresistor symbol
+The LDR symbol used in electronic circuits is based around the resistor circuit symbol, but shows the light, in the form of arrows shining on it. In this way it follows the same convention used for photodiode and phototransistor circuit symbols where arrows are used to show the light falling on these components.
+![light-dependent-resistor-photoresistor-circuit-symbol](https://user-images.githubusercontent.com/73667634/162882986-6ca27ad2-9952-4cec-89b6-ed7f28b47f96.svg)
+Circuit symbols used for the light dependent resistor, LDR or photoresistor for both old and new resistor symbols
+Photoresistor / light dependent resistor circuit symbols
+The light dependent resistor / photoresistor circuit symbols are shown for both the newer style resistor symbol, i.e. a rectangular box and the older zig-zag line resistor circuit symbols.
+
+Often the light dependent resistor symbol may be shown without the circle around it. This is often done on the electronic circuit schematic to save space and reduce the number of lines and circles ont he diagram to redice complication.
+
+#### How an LDR works
+It is relatively easy to understand the basics of how an LDR works without delving into complicated explanations. It is first necessary to understand that an electrical current consists of the movement of electrons within a material.
+
+Good conductors have a large number of free electrons that can drift in a given direction under the action of a potential difference. Insulators with a high resistance have very few free electrons, and therefore it is hard to make the them move and hence a current to flow.
+
+
 ###
 
 ###
