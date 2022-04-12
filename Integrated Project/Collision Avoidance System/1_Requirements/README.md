@@ -11,6 +11,7 @@ A Collision Avoidance System is an advanced driver assistance system designed to
 * Object with light source
 * Arduino R3-Compatible board
 * LED for checking
+* Resistors (330 ohms) 
 ## Features
 ### HC SR04 - Ultrasonic sensor
 #### What is Ultrasound?
@@ -179,6 +180,22 @@ Maximum operating voltage |	Particularly as the device is semiconductor based, t
 Peak wavelength	|This photoresistor specification details the wavelength of maximum sensitivity. Curves may be provided for the overall response in some instances. The wavelength is specified in nm| 
 Resistance when illuminated	|The resistance under illumination is a key specification is a key parameter for any photoresistor. Often a minimum and maximum resistance is given under certain light conditions, often 10 lux. A minimum and maximum vale may be given because of the spreads that are likely to be encountered. A 'fully on' condition may also be given under extreme lighting, e.g. 100lux.| 
 Dark resistance	|Dark resistance values will be given for the photoresistor. These may be specified after a given time because it takes a while for the resistance to fall as the charge carrier recombine - photoresistors are noted for their slow response times.| 
+
+A typical light dependent resistor, LDR / photoresistor specification may be:
+
+Parameter|Example Figure|
+|-|-|
+Max power dissipation	|200mW|
+Max voltage @ 0 lux	|200V| 
+Peak wavelength |	600nm| 
+Min. resistance @ 10lux	|1.8kΩ| 
+Max. resistance @ 10lux	|4.5kΩ| 
+Typ. resistance @ 100lux |0.7kΩ|
+Measuring Angle	|15 degree| 
+Dark resistance after 1 sec	|0.03MΩ|
+Dark resistance after 5 sec	|0.25MΩ
+|
+
 
 
 ###
