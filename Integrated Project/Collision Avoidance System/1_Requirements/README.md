@@ -40,6 +40,8 @@ It all starts, when a pulse of at least 10 µS (10 microseconds) in duration is 
 
 The eight ultrasonic pulses travel through the air away from the transmitter. Meanwhile the Echo pin goes HIGH to start forming the beginning of the echo-back signal.
 
+![HC-SR04-Ultrasonic-Sensor-Working-Echo-when-no-Obstacle](https://user-images.githubusercontent.com/73667634/162880323-1157a0f1-fbac-4d5a-9cba-d00eed7c6295.gif)
+
 ###
 ###
 ###
