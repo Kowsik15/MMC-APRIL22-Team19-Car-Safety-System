@@ -11,11 +11,13 @@ A  Brakepad Thickness Guage is  Smart  system which uses the ultrasonic sensor t
 ## Components Required
 
 * STM32F407 micro-controller
+* Arduino R3
 * HC SR04 Ultrasonic sensor
 * Connecting wires
 * LCD display
 * led 
 * Bread board
+
 
 
 ## STM32F407 MICRO CONTROLLER
