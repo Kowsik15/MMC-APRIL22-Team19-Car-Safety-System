@@ -136,6 +136,12 @@ The reset button is now next to the USB connector, making it more accessible whe
 |                       | via USB connector    | 0.5 A  |
 | Weight:               |            | 28 g             |
 
+## Breadboard
+What is a breadboard?
+A breadboard is a solderless device for temporary prototype with electronics and test circuit designs. Most electronic components in electronic circuits can be interconnected by inserting their leads or terminals into the holes and then making connections through wires where appropriate. The breadboard has strips of metal underneath the board and connect the holes on the top of the board. The metal strips are laid out as shown below. Note that the top and bottom rows of holes are connected horizontally and split in the middle while the remaining holes are connected vertically.
+
+![breadboard-01](https://user-images.githubusercontent.com/73667634/162902794-bc058867-ec7f-4ed4-b6ca-e8a2ad40a858.jpg)
+
 
 
 
