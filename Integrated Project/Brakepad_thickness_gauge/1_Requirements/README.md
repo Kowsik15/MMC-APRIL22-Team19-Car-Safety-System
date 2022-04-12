@@ -146,8 +146,8 @@ The reset button is now next to the USB connector, making it more accessible whe
 ![block](https://user-images.githubusercontent.com/98877131/162905030-4af2ecce-760a-443f-848a-7ca2c60b791f.png)
 
 ## FOW CHART
+![fc](https://user-images.githubusercontent.com/98877131/162920685-3a95d353-1322-4530-80ec-c30e0f0afc53.png)
 
-![flow](https://user-images.githubusercontent.com/98877131/162920086-b2df5988-127c-4e8f-bbe5-84da35d6d87c.png)
 
 
 
