@@ -52,7 +52,7 @@ The width of the received pulse is then used to calculate the distance to the re
 
 We will use the below equation.
 
-                                                                   Distance = Speed x Time
+                                                               Distance = Speed x Time
 
 Here, we have the value of Time i.e. 500 µs and we know the speed. What speed do we have? The speed of sound, of course! Its 340 m/s. We have to convert the speed of sound into cm/µs in order to calculate the distance. A quick Google search for “speed of sound in centimeters per microsecond” will say that it is 0.034 cm/µs. You could do the math, but searching it is easier. Anyway, with that information, we can calculate the distance!
 
