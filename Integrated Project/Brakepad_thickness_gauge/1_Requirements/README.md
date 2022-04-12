@@ -63,8 +63,10 @@ It all starts, when a pulse of at least 10 µS (10 microseconds) in duration is 
 
 
 ## SWOT ANALYSIS
+![swot](https://user-images.githubusercontent.com/98877131/162888560-8921b5af-6a05-410f-8ce5-410b9e394b1d.png)
 
-![Uploading 4w.png…]()
+## 4 W's and 1 H
+![4w](https://user-images.githubusercontent.com/98877131/162888650-a9a8e59f-7da8-47d0-9348-d6e19a33ac34.png)
 
 
 ## 3. High Level Requirements
