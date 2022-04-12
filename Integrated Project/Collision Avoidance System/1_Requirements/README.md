@@ -110,6 +110,65 @@ It is relatively easy to understand the basics of how an LDR works without delvi
 
 Good conductors have a large number of free electrons that can drift in a given direction under the action of a potential difference. Insulators with a high resistance have very few free electrons, and therefore it is hard to make the them move and hence a current to flow.
 
+#### Photoresistor / LDR structure
+Structurally the photoresistor is a light sensitive resistor that has a horizontal body that is exposed to light.
+
+The basic format for a photoresistor is that shown below:
+
+![resistor-light-dependent-photoresistor-structure-02](https://user-images.githubusercontent.com/73667634/162883386-f72f64f3-c4f5-42c8-88a6-28b2875b723a.svg)
+
+Photoresistor structure
+The active semiconductor region is normally deposited onto a semi-insulating substrate and the active region is normally lightly doped.
+
+In many discrete photoresistor devices, an interdigital pattern is used to increase the area of the photoresistor that is exposed to light. The pattern is cut in the metallisation on the surface of the active area and this lets the light through. The two metallise areas act as the two contacts for the resistor. This area has to be made relatively large because the resistance of the contact to the active area needs to be minimised.
+
+![resistor-light-dependent-photoresistor-structure-02](https://user-images.githubusercontent.com/73667634/162883692-b7c199b5-f81d-4283-b1b3-0d0290217c19.svg)
+
+
+
+#### Photoresistor structure
+Photoresistor structure showing interdigital pattern to maximise exposed area.
+This type of structure is widely used for many small photoresistors or light dependent resistors that are seen. The interdigital pattern is quite recognisable.
+
+The materials used for photoresistors are semiconductors and include materials such as CdSe, CdS, CdTe, InSb, InP, PbS, PbSe, Ge, Is, GaAs. Each material gives different properties in terms of the wavelength of sensitivity, etc.
+
+
+ 
+In view of the environmental concerns of using Cadmium, this material is not used for any product in Europe, and global use of this type of semiconductor has reduced significantly.
+
+#### Types of photoresistor
+Light dependent resistors, LDRs or photoresistors fall into one of two types or categories:
+
+Intrinsic photoresistors:   Intrinsic photoresistors use un-doped semiconductor materials including silicon or germanium. Photons fall on the LDR excite electrons moving them from the valence band to the conduction band. As a result, these electrons are free to conduct electricity. The more light that falls on the device, the more electrons are liberated and the greater the level of conductivity, and this results in a lower level of resistance.
+Extrinsic photoresistors:   Extrinsic photoresistors are manufactured from semiconductor of materials doped with impurities. These impurities or dopants create a new energy band above the existing valence band. As a result, electrons need less energy to transfer to the conduction band because of the smaller energy gap.
+Regardless of the type of light dependent resistor or photoresistor, both types exhibit an increase in conductivity or fall in resistance with increasing levels of incident light.
+
+LDR frequency dependence
+The sensitivity of photoresistors is shown to vary with the wavelength of the light that is impacting the sensitive area of the device. The effect is very marked and it is found that if the wavelength is outside a given range then there is no noticeable effect.
+
+Devices made from different materials respond differently to light of different wavelengths, and this means that the different electronics components can be used for different applications.
+
+It is also found that extrinsic photoresists tend to be more sensitive to longer wavelength light and can be used for infrared. However when working with infrared, care must be taken to avoid heat build-up caused but he elating effect of the radiation.
+
+Photoresistor / light dependent resistor latency
+One important aspect associated with photoresistors or light dependent resistors is that of the latency, or the time taken for the electronic component to respond to any changes. This aspect can be particularly important for a circuit design.
+
+It takes a noticeable amount of time from any changes in light level before the LDR / photoresistor attains its final value for the new level of light and for this reason the LDR / photo resistor is not a good choice where there are reasonably rapid changing values of light. However when the light changes take place over a period of time they are more than adequate.
+
+
+ 
+The rate at which the resistance changes is called the resistance recovery rate. The LDR / photoresistor normally responds within a few tens of milliseconds when light is applied after total darkness, but when light is removed it can take up to a second or so for the resistance to reach its final level.
+
+It is for this reason that one of the specifications normally quoted in the electronic component datasheets for photo-resistors is the dark resistance after a given time, typically in seconds. Often two values are quoted, one for one second and another for five seconds. These given an indication of the latency of the resistor.
+
+Photoresistor applications
+Photoresistors are found in many different applications and can be seen in many different electronic circuit designs. They have a very simple structure and they are low cost and rugged devices. They are widely used in many different items of electronic equipment and circuit designs including photographic light meters, fire or smoke alarms as well as burglar alarms, and they also find uses as lighting controls for street lamps.
+
+Extrinsic photoresistors are provide sensitivity for longer wavelengths and as a result they are popular in various electronic circuit designs as info-red photodetectors. Photoresistors can also be used to detect nuclear radiation.
+
+Light dependent resistor specifications
+There are several specifications that are important for light dependent resistors, LDRs / photoresistors when considering their use in any electronic circuit design.
+
 
 ###
 
