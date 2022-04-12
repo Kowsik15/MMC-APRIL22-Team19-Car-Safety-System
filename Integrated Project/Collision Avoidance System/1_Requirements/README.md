@@ -95,6 +95,10 @@ Similarly other cadmium based semiconductor materials like cadmium CdSe are also
 
 Although a semiconductor material is used for these photoresistors, they are purely passive devices because they do not possess a PN junction, and this separates them from other photodetectors like photodiodes and phototransistors.
 
+
+![Ldr1](https://user-images.githubusercontent.com/73667634/162891423-c0742872-05db-4907-b353-552c9008b9f0.gif)
+
+
 #### LDR / photoresistor symbol
 The LDR symbol used in electronic circuits is based around the resistor circuit symbol, but shows the light, in the form of arrows shining on it. In this way it follows the same convention used for photodiode and phototransistor circuit symbols where arrows are used to show the light falling on these components.
 
