@@ -100,4 +100,5 @@ So, now we know that the object is 8.5 centimeters away from the sensor.
 ## SWOT Analysis
 ![cas1](https://user-images.githubusercontent.com/98897973/162881536-003c36b7-44f6-4cea-916d-32dbcda90965.png)
 
-
+## 5W's & 1H
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/98897973/162881761-22187055-7677-424b-a928-e7c472527f2a.png)
