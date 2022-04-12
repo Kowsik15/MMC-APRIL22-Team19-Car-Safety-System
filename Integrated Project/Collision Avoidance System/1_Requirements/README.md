@@ -25,15 +25,15 @@ At its core, the HC-SR04 Ultrasonic distance sensor consists of two ultrasonic t
 The sensor is small, easy to use in any robotics project and offers excellent non-contact range detection between 2 cm to 400 cm (that’s about an inch to 13 feet) with an accuracy of 3mm. Since it operates on 5 volts, it can be hooked directly to an Arduino or any other 5V logic microcontrollers.
 S.NO|NAME|
 |-|-|
-1|Akula Venkata SaiKumar|
-2|Gurram Manikanta| 
-3|Hrishikesh Anand| 
-4|Jithesh Kumar| 
-5|Kowsik| 
-6|Nithin|
-7|Raj Prasanth Karunanidhi| 
-8|Savitha|
-9|Shailesh Jayaprakash|
+Operating Voltage	|DC 5V|
+Operating Current |15mA| 
+Operating Frequency	|40KHz| 
+Max Range	|4m| 
+Min Range	|2cm| 
+Ranging Accuracy |3mm|
+Measuring Angle	|15 degree| 
+Trigger Input Signal |10µS TTL pulse|
+Dimension	|45 x 20 x 15mm|
 
 ###
 ###
