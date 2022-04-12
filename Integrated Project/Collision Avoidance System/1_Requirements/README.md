@@ -41,8 +41,6 @@ It all starts, when a pulse of at least 10 µS (10 microseconds) in duration is 
 
 The eight ultrasonic pulses travel through the air away from the transmitter. Meanwhile the Echo pin goes HIGH to start forming the beginning of the echo-back signal.
 
-![HC-SR04-Ultrasonic-Sensor-Working-Echo-when-no-Obstacle](https://user-images.githubusercontent.com/73667634/162880323-1157a0f1-fbac-4d5a-9cba-d00eed7c6295.gif)
-
 If those pulses are reflected back the Echo pin goes low as soon as the signal is received. This produces a pulse whose width varies between 150 µS to 25 mS, depending upon the time it took for the signal to be received.
 
 ![HC-SR04-Ultrasonic-Sensor-Working-Echo-reflected-from-Obstacle 2](https://user-images.githubusercontent.com/73667634/162880524-b3a8556e-19a5-40cb-91e4-75ca246748f3.gif)
@@ -132,17 +130,12 @@ In many discrete photoresistor devices, an interdigital pattern is used to incre
 
 ![resistor-light-dependent-photoresistor-structure-01](https://user-images.githubusercontent.com/73667634/162883862-f14dec2f-7788-4965-b861-6348282becca.svg)
 
-
-
-
 #### Photoresistor structure
 Photoresistor structure showing interdigital pattern to maximise exposed area.
 This type of structure is widely used for many small photoresistors or light dependent resistors that are seen. The interdigital pattern is quite recognisable.
 
 The materials used for photoresistors are semiconductors and include materials such as CdSe, CdS, CdTe, InSb, InP, PbS, PbSe, Ge, Is, GaAs. Each material gives different properties in terms of the wavelength of sensitivity, etc.
 
-
- 
 In view of the environmental concerns of using Cadmium, this material is not used for any product in Europe, and global use of this type of semiconductor has reduced significantly.
 
 #### Types of photoresistor
@@ -166,8 +159,6 @@ One important aspect associated with photoresistors or light dependent resistors
 
 It takes a noticeable amount of time from any changes in light level before the LDR / photoresistor attains its final value for the new level of light and for this reason the LDR / photo resistor is not a good choice where there are reasonably rapid changing values of light. However when the light changes take place over a period of time they are more than adequate.
 
-
- 
 The rate at which the resistance changes is called the resistance recovery rate. The LDR / photoresistor normally responds within a few tens of milliseconds when light is applied after total darkness, but when light is removed it can take up to a second or so for the resistance to reach its final level.
 
 It is for this reason that one of the specifications normally quoted in the electronic component datasheets for photo-resistors is the dark resistance after a given time, typically in seconds. Often two values are quoted, one for one second and another for five seconds. These given an indication of the latency of the resistor.
