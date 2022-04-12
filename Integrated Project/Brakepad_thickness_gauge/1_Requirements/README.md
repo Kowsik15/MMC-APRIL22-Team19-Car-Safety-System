@@ -87,6 +87,12 @@ But this is not done! Remember that the pulse indicates the time it took for the
 So, now we know that the object is 8.5 centimeters away from the sensor.
 
 
+
+## BLOCK DIAGRAM
+
+![block](https://user-images.githubusercontent.com/98877131/162905030-4af2ecce-760a-443f-848a-7ca2c60b791f.png)
+
+
 ## SWOT ANALYSIS
 ![swot](https://user-images.githubusercontent.com/98877131/162888560-8921b5af-6a05-410f-8ce5-410b9e394b1d.png)
 
