@@ -271,6 +271,14 @@ To interconnect the selected row node A) and column (node B) a cable going from 
 Now the selected column (node B) and row (node A) are interconnected:
 ![breadboard-04](https://user-images.githubusercontent.com/73667634/162902853-dc0851ae-d1d8-4d69-a5ca-447674d12718.jpg)
 
+#### Breadboarding tips: 
+It is important to breadboard a circuit neatly and systematically, so that one can debug it and get it running easily and quickly.  It also helps when someone else needs to understand and inspect the circuit.  Here are some tips: 
+1. Always use the side-lines for power supply connections. Power the chips from the side-lines and not directly from the power supply. 
+2. Use black wires for ground connections (0V), and red for other power connections. 
+3. Keep the jumper wires on the board flat, so that the board does not look cluttered.
+4. Route jumper wires around the chips and not over the chips. This makes changing the chips when needed easier. 
+5. You could trim the legs of components like resistors, transistors and LEDs, so that they fit in snugly and do not get pulled out by accident.  
+
 
 ###
 
