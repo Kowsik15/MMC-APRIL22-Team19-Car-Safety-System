@@ -17,6 +17,7 @@ A  Brakepad Thickness Guage is  Smart  system which uses the ultrasonic sensor t
 * led 
 * Bread board
 
+
 ## STM32F407 MICRO CONTROLLER
 ### What is micro controller?
 A microcontroller is embedded inside of a system to control a singular function in a device. It does this by interpreting data it receives from its I/O peripherals using its central processor. The temporary information that the microcontroller receives is stored in its data memory, where the processor accesses it and uses instructions stored in its program memory to decipher and apply the incoming data. It then uses its I/O peripherals to communicate and enact the appropriate action.
@@ -35,6 +36,8 @@ Power efficiency: ST’s 90 nm process, ART Accelerator and the dynamic power sc
 ## HC SR04 - Ultrasonic sensor
 ### What is Ultrasound?
 Ultrasound is high-pitched sound waves with frequencies higher than the audible limit of human hearing.
+
+![ultrasonic-sensor-working](https://user-images.githubusercontent.com/98877131/162888370-e9b53591-4fab-4997-af5f-0bf9598c5932.gif)
 
 ### Ultrasonic Frequency Range Spectrum
 Human ears can hear sound waves that vibrate in the range from about 20 times a second (a deep rumbling noise) to about 20,000 times a second (a high-pitched whistling). However, ultrasound has a frequency of over 20,000 Hz and is therefore inaudible to humans.
