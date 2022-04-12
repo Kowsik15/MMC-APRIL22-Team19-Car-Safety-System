@@ -216,25 +216,41 @@ The USB controller chip changed from ATmega8U2 (8K flash) to ATmega16U2 (16K fla
 Three new pins were added, all of which are duplicates of previous pins. The I2C pins (A4, A5) have been also been brought out on the side of the board near AREF. There is a IOREF pin next to the reset pin, which is a duplicate of the 5V pin.
 The reset button is now next to the USB connector, making it more accessible when a shield is used.
 
-|      sdfghjk   |    erfgthjkl;';lkjhg      |
-|---------------------|----------------------|
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-|         |          |
-
+| Microcontroller:      |            | ATmega328P       |
+|-----------------------|------------|------------------|
+| Clock:                |            | 16 MHz resonator |
+| User I/O lines:       |            | 20               |
+| PWM outputs:          |            | 6                |
+| Analog inputs:        |            | 6                |
+| Ground access points: |            | 4                |
+| User LEDs:            |            | 3                |
+| User pushbuttons:     |            | —                |
+| Reset button:         |            |                  |
+| Power switch:         |            |                  |
+| Buzzer option:        |            |                  |
+| microSD option:       |            |                  |
+| LCD option:           |            |                  |
+| Arduino-compatible    |            |                  |
+| bootloader:           |            |                  |
+| USB connector:        |            | B                |
+| USB/regulator         |            | partial          |
+| power selection:      |            |                  |
+| High-performance      |            |                  |
+| reverse-voltage       |            |                  |
+| protection:           |            |                  |
+| Recommended           |            | 7 V to 12 V      |
+| input voltage:        |            |                  |
+| Regulator type (5 V): |            | linear           |
+|                       |            |                  |
+| Available             | at 3 V in  | —                |
+| 5 V                   | at 5 V in  | —                |
+| output                | at 7 V in  | 1.0 A            |
+| current:              | at 9 V in  | 0.5 A            |
+|                       | at 11 V in | 0.35 A           |
+|                       | at 24 V in | —                |
+|                       | via USB    | 0.5 A(2)         |
+|                       | connector  |                  |
+| Weight:               |            | 28 g             |
 ###
 ###
 ###
