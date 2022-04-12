@@ -175,14 +175,10 @@ There are several specifications that are important for light dependent resistor
 Parameter|Details|
 |-|-|
 Max power dissipation		|This is the maximum power the device is able to dissipate within a given temperature range. Derating may be applicable above a certain temperature.|
-Operating Current |15mA| 
-Operating Frequency	|40KHz| 
-Max Range	|4m| 
-Min Range	|2cm| 
-Ranging Accuracy |3mm|
-Measuring Angle	|15 degree| 
-Trigger Input Signal |10µS TTL pulse|
-Dimension	|45 x 20 x 15mm|
+Maximum operating voltage |	Particularly as the device is semiconductor based, the maximum operating voltage must be observed. This is typically specified at 0 lux, i.e. darkness.| 
+Peak wavelength	|This photoresistor specification details the wavelength of maximum sensitivity. Curves may be provided for the overall response in some instances. The wavelength is specified in nm| 
+Resistance when illuminated	|The resistance under illumination is a key specification is a key parameter for any photoresistor. Often a minimum and maximum resistance is given under certain light conditions, often 10 lux. A minimum and maximum vale may be given because of the spreads that are likely to be encountered. A 'fully on' condition may also be given under extreme lighting, e.g. 100lux.| 
+Dark resistance	|Dark resistance values will be given for the photoresistor. These may be specified after a given time because it takes a while for the resistance to fall as the charge carrier recombine - photoresistors are noted for their slow response times.| 
 
 
 ###
