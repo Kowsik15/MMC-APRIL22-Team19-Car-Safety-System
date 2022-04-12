@@ -247,8 +247,7 @@ The reset button is now next to the USB connector, making it more accessible whe
 |                       | at 9 V in  | 0.5 A            |
 |                       | at 11 V in | 0.35 A           |
 |                       | at 24 V in | —                |
-|                       | via USB    | 0.5 A(2)         |
-|                       | connector  |                  |
+|                       | via USB connector    | 0.5 A(2) |
 | Weight:               |            | 28 g             |
 ###
 ###
