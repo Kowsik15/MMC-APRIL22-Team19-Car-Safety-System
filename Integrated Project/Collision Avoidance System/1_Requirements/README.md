@@ -35,6 +35,11 @@ Measuring Angle	|15 degree|
 Trigger Input Signal |10µS TTL pulse|
 Dimension	|45 x 20 x 15mm|
 
+#### How Does HC-SR04 Ultrasonic Distance Sensor Work?
+It all starts, when a pulse of at least 10 µS (10 microseconds) in duration is applied to the Trigger pin. In response to that the sensor transmits a sonic burst of eight pulses at 40 KHz. This 8-pulse pattern makes the “ultrasonic signature” from the device unique, allowing the receiver to differentiate the transmitted pattern from the ambient ultrasonic noise.
+
+The eight ultrasonic pulses travel through the air away from the transmitter. Meanwhile the Echo pin goes HIGH to start forming the beginning of the echo-back signal.
+
 ###
 ###
 ###
