@@ -60,9 +60,9 @@ Here, we have the value of Time i.e. 500 µs and we know the speed. What speed d
 
 But this is not done! Remember that the pulse indicates the time it took for the signal to be sent out and reflected back so to get the distance so, you’ll need to divide your result in half.
 
-Distance = (0.034 cm/µs x 500 µs) / 2
+                                                            Distance = (0.034 cm/µs x 500 µs) / 2
 
-Distance = 8.5 cm
+                                                                       Distance = 8.5 cm
 
 So, now we know that the object is 8.5 centimeters away from the sensor.
 
