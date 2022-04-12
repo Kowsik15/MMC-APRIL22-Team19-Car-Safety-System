@@ -163,18 +163,18 @@ The reset button is now next to the USB connector, making it more accessible whe
 |------|------| ----- |
 |HLR_01|   thickness measurment | Implemented |
 |HLR_02| Display the thickness   | Implemented |
-|HLR_03|  Warning for low thickness   | Implemented |
+|HLR_03|  Buzzer alert   | Implemented |
 
 
 ## 4. Low Level Requirements
 |ID|ID|Description| status |
 |------|------|------| ------ |
-|HLR_01|LLR_01|     | Implemented |
-||LLR_02|       | Implemented |
-|HLR_02|LLR_01|     |      Implemented |  
-||LLR_02|       |  Implemented |
-|HLR_03|LLR_01|     |     Implemented |          
-||LLR_02|     |  Implemented |   
+|HLR_01|LLR_01|    accuracy of the sensor  | Implemented |
+||LLR_02|    sensor placement   | Implemented |
+|HLR_02|LLR_01|    the exact thickness need to display |      Implemented |  
+||LLR_02|   continous display    | Not Implemented |
+|HLR_03|LLR_01|    buzzer alert for low thickness |     Implemented |          
+||LLR_02|     | no alert for thickness higher than threeshold value |   
 
 
 
