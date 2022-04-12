@@ -62,6 +62,10 @@ Dimension	|45 x 20 x 15mm|
 It all starts, when a pulse of at least 10 µS (10 microseconds) in duration is applied to the Trigger pin. In response to that the sensor transmits a sonic burst of eight pulses at 40 KHz. This 8-pulse pattern makes the “ultrasonic signature” from the device unique, allowing the receiver to differentiate the transmitted pattern from the ambient ultrasonic noise.
 
 
+## SWOT ANALYSIS
+
+![Uploading 4w.png…]()
+
 
 ## 3. High Level Requirements
 |ID|Description|
