@@ -217,7 +217,7 @@ Three new pins were added, all of which are duplicates of previous pins. The I2C
 The reset button is now next to the USB connector, making it more accessible when a shield is used.
 
 | Microcontroller:      |   ATmega328P     |
-|-----------------------|------------------|
+|-----------------------|------------------|------------------|
 | Clock:                | 16 MHz resonator |
 | User I/O lines:       | 20               |
 | PWM outputs:          | 6                |
