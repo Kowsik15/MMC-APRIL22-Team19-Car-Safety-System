@@ -249,7 +249,29 @@ The reset button is now next to the USB connector, making it more accessible whe
 |                       | at 24 V in |        —         |
 |                       | via USB connector    | 0.5 A  |
 | Weight:               |            | 28 g             |
-###
+### Breadboard
+What is a breadboard?
+A breadboard is a solderless device for temporary prototype with electronics and test circuit designs. Most electronic components in electronic circuits can be interconnected by inserting their leads or terminals into the holes and then making connections through wires where appropriate. The breadboard has strips of metal underneath the board and connect the holes on the top of the board. The metal strips are laid out as shown below. Note that the top and bottom rows of holes are connected horizontally and split in the middle while the remaining holes are connected vertically.
+
+![breadboard-01](https://user-images.githubusercontent.com/73667634/162902794-bc058867-ec7f-4ed4-b6ca-e8a2ad40a858.jpg)
+
+
+
+
+Note how all holes in the selected row are connected together, so the holes in the selected column. The set of connected holes can be called a node:
+
+![breadboard-02](https://user-images.githubusercontent.com/73667634/162902804-989ea95a-5a73-4682-8069-5dbd1919c69c.jpg)
+
+
+To interconnect the selected row node A) and column (node B) a cable going from any hole in the row to any hole in the column is needed:
+
+![breadboard-03](https://user-images.githubusercontent.com/73667634/162903063-61d3f136-d6a2-44f1-bfc0-29b450084694.jpg)
+
+
+Now the selected column (node B) and row (node A) are interconnected:
+![breadboard-04](https://user-images.githubusercontent.com/73667634/162902853-dc0851ae-d1d8-4d69-a5ca-447674d12718.jpg)
+
+
 ###
 
 ## High Level Requirements
