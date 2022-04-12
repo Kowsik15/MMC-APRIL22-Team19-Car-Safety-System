@@ -17,6 +17,20 @@ A  Brakepad Thickness Guage is  Smart  system which uses the ultrasonic sensor t
 * led 
 * Bread board
 
+## STM32F407 MICRO CONTROLLER
+### What is micro controller?
+A microcontroller is embedded inside of a system to control a singular function in a device. It does this by interpreting data it receives from its I/O peripherals using its central processor. The temporary information that the microcontroller receives is stored in its data memory, where the processor accesses it and uses instructions stored in its program memory to decipher and apply the incoming data. It then uses its I/O peripherals to communicate and enact the appropriate action.
+
+
+
+### STM32F407 micro-controller Hardware Overview
+
+The STM32F407/417 lines are designed for medical, industrial and consumer applications where the high level of integration and performance, embedded memories and rich peripheral set inside packages as small as 10 x 10 mm are required.
+The STM32F407/417 offers the performance of the Cortex™-M4 core (with floating point unit) running at 168 MHz.
+
+Performance: At 168 MHz, the STM32F407/417 deliver 210 DMIPS/566 CoreMark performance executing from Flash memory, with 0-wait states using ST’s ART Accelerator. The DSP instructions and the floating point unit enlarge the range of addressable applications.
+
+Power efficiency: ST’s 90 nm process, ART Accelerator and the dynamic power scaling enables the current consumption in run mode and executing from Flash memory to be as low as 238 µA/MHz at 168 MHz.
 
 ## HC SR04 - Ultrasonic sensor
 ### What is Ultrasound?
