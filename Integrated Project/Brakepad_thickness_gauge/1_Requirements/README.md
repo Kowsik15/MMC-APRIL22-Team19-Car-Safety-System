@@ -74,6 +74,7 @@ The width of the received pulse is then used to calculate the distance to the re
 
 We will use the below equation.
 
+
                                                                Distance = Speed x Time
 
 Here, we have the value of Time i.e. 500 µs and we know the speed. What speed do we have? The speed of sound, of course! Its 340 m/s. We have to convert the speed of sound into cm/µs in order to calculate the distance. A quick Google search for “speed of sound in centimeters per microsecond” will say that it is 0.034 cm/µs. You could do the math, but searching it is easier. Anyway, with that information, we can calculate the distance!
@@ -88,7 +89,7 @@ But this is not done! Remember that the pulse indicates the time it took for the
 
 So, now we know that the object is 8.5 centimeters away from the sensor.
 
-## Arduino R3 board
+## Arduino UNO R3 board
    The Arduino Uno R3 is a microcontroller board based on a removable, dual-inline-package (DIP) ATmega328 AVR microcontroller. It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs). Programs can be loaded on to it from the easy-to-use Arduino computer program. The Arduino has an extensive support community, which makes it a very easy way to get started working with embedded electronics. The R3 is the third, and latest, revision of the Arduino Uno.
    The Arduino Uno is a microcontroller board based on the ATmega328. It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs), a 16 MHz resonator, a USB connection, a power jack, an in-circuit system programming (ICSP) header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
 
@@ -101,6 +102,12 @@ This is the 3rd revision of the Uno (R3), which has a number of changes:
 The USB controller chip changed from ATmega8U2 (8K flash) to ATmega16U2 (16K flash). This does not increase the flash or RAM available to sketches.
 Three new pins were added, all of which are duplicates of previous pins. The I2C pins (A4, A5) have been also been brought out on the side of the board near AREF. There is a IOREF pin next to the reset pin, which is a duplicate of the 5V pin.
 The reset button is now next to the USB connector, making it more accessible when a shield is used.
+
+
+
+![download](https://user-images.githubusercontent.com/98877131/162922843-0bffebe3-69b0-4c66-9839-6cf470e93b63.jpg)
+
+
 
 | Microcontroller:      |            | ATmega328P       |
 |-----------------------|------------|------------------|
