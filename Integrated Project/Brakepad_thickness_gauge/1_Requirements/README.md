@@ -10,8 +10,13 @@ A  Brakepad Thickness Guage is  Smart  system which uses the ultrasonic sensor t
 * Warning if the pads thickness is less than the threeshold
 
 ## Components Required
-** HC SR04 Ultrasonic sensor
 
+* STM32F407 micro-controller
+* HC SR04 Ultrasonic sensor
+* Connecting wires
+* LCD display
+* led 
+* Bread board
 
 ## 3. High Level Requirements
 |ID|Description|
