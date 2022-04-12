@@ -214,7 +214,7 @@ Dark resistance after 5 sec	|0.25MΩ
 ## High Level Requirements
 |ID|Description|
 |------|------|
-|HLR_01|    |
+|HLR_01| Ultrasoinc  |
 |HLR_02|    |
 |HLR_03|    |
 |HLR_04|    |
