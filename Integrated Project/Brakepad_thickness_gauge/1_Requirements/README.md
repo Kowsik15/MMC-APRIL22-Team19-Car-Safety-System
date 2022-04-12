@@ -4,10 +4,6 @@ A  Brakepad Thickness Guage is  Smart  system which uses the ultrasonic sensor t
 
 * Ultrasonic sensor used for  measuring the thickness of  pads(i.e distance between the pads)
 
-## Features
-* Measure the thickness of the brake pads.
-* Displays the distance between the two brake pads in the lcd dsplay
-* Warning if the pads thickness is less than the threeshold
 
 ## Components Required
 
@@ -17,6 +13,11 @@ A  Brakepad Thickness Guage is  Smart  system which uses the ultrasonic sensor t
 * LCD display
 * led 
 * Bread board
+* 
+## Features
+* Measure the thickness of the brake pads.
+* Displays the distance between the two brake pads in the lcd dsplay
+* Warning if the pads thickness is less than the threeshold
 
 ## 3. High Level Requirements
 |ID|Description|
