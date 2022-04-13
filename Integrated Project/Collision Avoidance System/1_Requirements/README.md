@@ -278,9 +278,9 @@ It is important to breadboard a circuit neatly and systematically, so that one c
 |------|------|
 |HLR_01| Ultrasonic sensors shall measure the distance of an object using sound waves |
 |HLR_02| LDR shall be able to sense the temperature and light   |
-|HLR_03|    |
+|HLR_03| Buzzer alert shall be displayed  |
 |HLR_04|    |
-|HLR_05|    |
+
 
 ## Low Level Requirements
 |ID|ID|Description|
