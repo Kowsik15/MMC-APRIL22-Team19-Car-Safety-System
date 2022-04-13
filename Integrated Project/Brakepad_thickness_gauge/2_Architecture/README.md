@@ -7,8 +7,8 @@
 
 ## Structural Diagram
 
+![flow](https://user-images.githubusercontent.com/98877131/163176138-3b147fd5-c7ff-4bcc-b32d-9fa32a914997.png)
 
 
 
-![flow](https://user-images.githubusercontent.com/98877131/163096690-c4a7aa52-f491-4e09-af90-b97db136f278.png)
 
