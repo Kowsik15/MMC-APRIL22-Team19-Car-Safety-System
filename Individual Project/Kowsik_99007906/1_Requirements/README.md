@@ -124,3 +124,8 @@ Typ. resistance @ 100lux |0.7kΩ|
 Measuring Angle	|15 degree| 
 Dark resistance after 1 sec	|0.03MΩ|
 Dark resistance after 5 sec	|0.25MΩ|
+
+## Swot Analysis
+
+![ko](https://user-images.githubusercontent.com/73667634/163115878-2c26ac94-c8a1-45b2-8b71-9741425e7647.png)
+
