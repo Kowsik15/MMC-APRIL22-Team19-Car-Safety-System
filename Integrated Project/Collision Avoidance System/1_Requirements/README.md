@@ -279,22 +279,18 @@ It is important to breadboard a circuit neatly and systematically, so that one c
 |HLR_01| Ultrasonic sensors shall measure the distance of an object using sound waves |
 |HLR_02| LDR shall be able to sense the temperature and light   |
 |HLR_03| Buzzer alert shall be displayed  |
-|HLR_04|    |
 
 
 ## Low Level Requirements
 |ID|ID|Description|
 |------|------|------|
-|HLR_01|LLR_01|     |
+|HLR_01|LLR_01| sensors shall alert when object gets closer |
+||LLR_02| sensors shall not alert when no object are around vehicle |
+|HLR_02|LLR_01|  |       
+||LLR_02|  |
+|HLR_03|LLR_01|  |              
 ||LLR_02|       |
-|HLR_02|LLR_01|     |       
-||LLR_02|       |
-|HLR_03|LLR_01|     |              
-||LLR_02|       |
-|HLR_04|LLR_01|     |              
-||LLR_02|       |
-|HLR_05|LLR_01|     |              
-||LLR_02|       |
+
 
 ## SWOT Analysis
 ![cas1](https://user-images.githubusercontent.com/98897973/162881536-003c36b7-44f6-4cea-916d-32dbcda90965.png)
