@@ -286,7 +286,7 @@ It is important to breadboard a circuit neatly and systematically, so that one c
 |------|------|------|
 |HLR_01|LLR_01| sensors shall alert when object gets closer |
 ||LLR_02| sensors shall not alert when no object are around vehicle |
-|HLR_02|LLR_01|  |       
+|HLR_02|LLR_01| LDR Shall Continuosly sense the temperature |       
 ||LLR_02|  |
 |HLR_03|LLR_01|  |              
 ||LLR_02|       |
