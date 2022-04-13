@@ -1,4 +1,4 @@
-### Photoresistor - LDR
+## Photoresistor - LDR
 Photoresistors, also known as LDR (light-dependent resistors), are components made of semiconductors.
 
 A photoresistor is sensitive to light. Its resistance decreases when lighting increases. Photoresistors have multiple uses, for example, automatic door opening.
