@@ -11,11 +11,11 @@ If an object is detected, the system continues with direct measurement of sensor
 
 As previously mentioned, each manufacturer uses its own automatic braking system technology, with different sensory input and setup.
 
-Subaru's EyeSight system, for example, uses video input, in the form of two color cameras, mounted at the top of the windshield, to look for contrast with the background and vertical surfaces when scanning the area. The software is then able to recognize different types of images, like pedestrians, motorcycles, and rear ends of other vehicles.
+* Subaru's EyeSight system, for example, uses video input, in the form of two color cameras, mounted at the top of the windshield, to look for contrast with the background and vertical surfaces when scanning the area. The software is then able to recognize different types of images, like pedestrians, motorcycles, and rear ends of other vehicles.
 
-Volvo's City Safety System, on the other hand, uses a combination of a lidar (laser radar), placed in the bumper, and a camera, mounted in the windshield. Lidar can see several hundred yards in front of the car, but it can't determine what it's seeing. That's where the camera steps in, identifying the object and determining if it is a possible problem or not.
+* Volvo's City Safety System, on the other hand, uses a combination of a lidar (laser radar), placed in the bumper, and a camera, mounted in the windshield. Lidar can see several hundred yards in front of the car, but it can't determine what it's seeing. That's where the camera steps in, identifying the object and determining if it is a possible problem or not.
 
-Honda's City Brake Active System combines radar sensors and cameras, using the data to determine any possible collision, and warn the driver through the series of visual and audible alerts. If the driver ignores the warnings, the system can take over and automatically apply the brakes. Honda's system can detect pedestrians and slow the vehicle down or stop it entirely if there is a chance of pedestrians being hit.
+* Honda's City Brake Active System combines radar sensors and cameras, using the data to determine any possible collision, and warn the driver through the series of visual and audible alerts. If the driver ignores the warnings, the system can take over and automatically apply the brakes. Honda's system can detect pedestrians and slow the vehicle down or stop it entirely if there is a chance of pedestrians being hit.
 
 A Collision Avoidance System is an advanced driver assistance system designed to prevent or reduce the severity of a collision. In its basic form, a forward collision warning system monitors a vehicle's speed, and the distance between the vehicles, so that it can provide a warning to the driver if the vehicles get too close, potentially helping to avoid a crash.Our project invloves two type of collision avoiding system they are
 * LDR based i.e light based
