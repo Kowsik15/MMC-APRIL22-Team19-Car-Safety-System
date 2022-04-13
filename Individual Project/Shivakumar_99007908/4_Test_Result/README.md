@@ -14,8 +14,8 @@
 
 ## LOW LEVEL TEST PLAN
 
-| Test ID | Description | Input | Expected output | Actual Output | passed/not |
-| --- | --- | --- | --- | --- | --- |
+| Test ID | Description | Input | Expected output | Actual Output |
+| --- | --- | --- | --- | --- |
 | 01 | Object detection | Object | Object Detection(IDE) | Objected Detected | 
 | 02 | Data transfer | ultrasonic senses objects | Data transfered | Data transfered |
 | 03 | Distance of vehicle | vehicle | Distance in cm  | Distance in cm |
