@@ -7,13 +7,8 @@
 
 ![block](https://user-images.githubusercontent.com/98877131/163234955-2b190c44-85da-4eff-bcf4-0a9e9420e121.png)
 
+## SWOT ANALYSIS
+![swot](https://user-images.githubusercontent.com/98877131/162888560-8921b5af-6a05-410f-8ce5-410b9e394b1d.png)
 
-## Block Diagram
-
-
-![block](https://user-images.githubusercontent.com/98877131/163234955-2b190c44-85da-4eff-bcf4-0a9e9420e121.png)
-
-
-## Structural Diagram
-
-![flow](https://user-images.githubusercontent.com/98877131/163176138-3b147fd5-c7ff-4bcc-b32d-9fa32a914997.png)
+## 4 W's and 1 H
+![4w](https://user-images.githubusercontent.com/98877131/162888650-a9a8e59f-7da8-47d0-9348-d6e19a33ac34.png)
