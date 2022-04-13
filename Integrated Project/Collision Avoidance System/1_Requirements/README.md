@@ -279,17 +279,17 @@ It is important to breadboard a circuit neatly and systematically, so that one c
 |HLR_01| Ultrasonic sensors shall measure the distance of an object using sound waves |
 |HLR_02| LDR shall be able to sense the temperature and light   |
 |HLR_03| Buzzer alert shall be displayed  |
+|HLR_04| Communication protocol between stm32 and Arduino uno  |
+
 
 
 ## Low Level Requirements
-|ID|ID|Description|
-|------|------|------|
-|HLR_01|LLR_01| sensors shall alert when object gets closer |
-||LLR_02| sensors shall not alert when no object are around vehicle |
-|HLR_02|LLR_01| LDR Shall Continuosly sense the temperature |       
-||LLR_02|  |
-|HLR_03|LLR_01|  |              
-||LLR_02|       |
+|ID|Description|
+|------|------|
+|LLR_01| Object required for sensing the ultrasonic waves  |
+|LLR_02| Light source required for sensing ldr |
+|LLR_03| Data  transfer must be continous from board to board     |
+|LLR_04| LCD should display whether the contents are displayed or not |
 
 
 ## SWOT Analysis
