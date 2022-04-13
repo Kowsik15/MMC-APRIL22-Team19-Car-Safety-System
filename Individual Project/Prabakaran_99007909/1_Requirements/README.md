@@ -28,3 +28,7 @@ A 16x2 LCD means it can display 16 characters per line and there are 2 such line
 
 ### 16*2 LCD DISPLAY WORKING
 A 16x2 LCD means it can display 16 characters per line and there are 2 such lines. In this LCD each character is displayed in 5x7 pixel matrix. The 16 x 2 intelligent alphanumeric dot matrix display is capable of displaying 224 different characters and symbols. This LCD has two registers, namely, Command and Data.
+
+
+![10-Liquid-Crystal-Display-22](https://user-images.githubusercontent.com/98877131/163238268-34296e68-8d2d-450a-a02f-295f93caaaa5.png)
+
