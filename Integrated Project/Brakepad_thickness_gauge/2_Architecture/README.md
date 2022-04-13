@@ -1,8 +1,7 @@
 ## Block Diagram
 
 
-![block](https://user-images.githubusercontent.com/98877131/163096676-3e2253eb-08a6-4601-98c9-0f9c5807897c.png)
-
+![block](https://user-images.githubusercontent.com/98877131/163234955-2b190c44-85da-4eff-bcf4-0a9e9420e121.png)
 
 
 ## Structural Diagram
