@@ -13,7 +13,7 @@
 |HLR_01|LLR_01|    accuracy of the sensor  | Implemented |
 ||LLR_02|    sensor placement   | Implemented |
 |HLR_02|LLR_01|    the exact thickness need to display |      Implemented |  
-||LLR_02|   continous display    | Not Implemented |
+||LLR_02|   continous display    |  Implemented |
 |HLR_03|LLR_01|    buzzer alert for low thickness |   NOt  Implemented |          
-||LLR_02|   no alert for thickness higher than threeshold value  | Implemented |   
+||LLR_02|   no alert for thickness higher than threeshold value  | NOT Implemented |   
 
