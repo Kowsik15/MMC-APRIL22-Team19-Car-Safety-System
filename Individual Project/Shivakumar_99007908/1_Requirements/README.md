@@ -49,3 +49,13 @@ But this is not done! Remember that the pulse indicates the time it took for the
                                                                        Distance = 8.5 cm
 
 So, now we know that the object is 8.5 centimeters away from the sensor.
+
+## Swot Analysis
+
+![swot ultrasonic drawio](https://user-images.githubusercontent.com/98897973/163113464-7964a1c6-3e90-4190-9a22-2fa20b2e7e50.png)
+
+## 4W's & 1H
+![ultrasonic 4w   1h drawio](https://user-images.githubusercontent.com/98897973/163113539-eca2e82a-c538-450e-a5c1-135de450ba48.png)
+
+
+
