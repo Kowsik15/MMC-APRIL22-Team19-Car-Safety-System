@@ -19,3 +19,4 @@ The receiving UART receives this serial data at the RX pin and detects the actua
 
 Up on separating the start, parity and stop bits from the data packet, the data is converted to parallel data with the help of shift register. This parallel data is sent to the controller at the receiving end through a data bus.
 
+### 16*2 LCD DISPLAY
