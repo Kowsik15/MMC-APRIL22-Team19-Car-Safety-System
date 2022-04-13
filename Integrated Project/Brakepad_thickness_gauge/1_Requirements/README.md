@@ -11,7 +11,6 @@ A  Brakepad Thickness Guage is  Smart  system which uses the ultrasonic sensor t
 ## Components Required
 
 * STM32F407 micro-controller
-* Arduino R3
 * HC SR04 Ultrasonic sensor
 * Connecting wires
 * LCD display
@@ -89,59 +88,6 @@ But this is not done! Remember that the pulse indicates the time it took for the
 
 So, now we know that the object is 8.5 centimeters away from the sensor.
 
-## Arduino UNO R3 board
-   The Arduino Uno R3 is a microcontroller board based on a removable, dual-inline-package (DIP) ATmega328 AVR microcontroller. It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs). Programs can be loaded on to it from the easy-to-use Arduino computer program. The Arduino has an extensive support community, which makes it a very easy way to get started working with embedded electronics. The R3 is the third, and latest, revision of the Arduino Uno.
-   The Arduino Uno is a microcontroller board based on the ATmega328. It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs), a 16 MHz resonator, a USB connection, a power jack, an in-circuit system programming (ICSP) header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
-
-The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features an ATmega16U2 programmed as a USB-to-serial converter. This auxiliary microcontroller has its own USB bootloader, which allows advanced users to reprogram it.
-
-The Arduino has a large support community and an extensive set of support libraries and hardware add-on “shields” (e.g. you can easily make your Arduino wireless with our Wixel shield), making it a great introductory platform for embedded electronics. Note that we also offer a SparkFun Inventor’s Kit, which includes an Arduino Uno along with an assortment of components (e.g. breadboard, sensors, jumper wires, and LEDs) that make it possible to create a number of fun introductory projects.
-
-This is the 3rd revision of the Uno (R3), which has a number of changes:
-
-The USB controller chip changed from ATmega8U2 (8K flash) to ATmega16U2 (16K flash). This does not increase the flash or RAM available to sketches.
-Three new pins were added, all of which are duplicates of previous pins. The I2C pins (A4, A5) have been also been brought out on the side of the board near AREF. There is a IOREF pin next to the reset pin, which is a duplicate of the 5V pin.
-The reset button is now next to the USB connector, making it more accessible when a shield is used.
-
-
-
-![download](https://user-images.githubusercontent.com/98877131/162922843-0bffebe3-69b0-4c66-9839-6cf470e93b63.jpg)
-
-
-
-| Microcontroller:      |            | ATmega328P       |
-|-----------------------|------------|------------------|
-| Clock:                |            | 16 MHz resonator |
-| User I/O lines:       |            | 20               |
-| PWM outputs:          |            | 6                |
-| Analog inputs:        |            | 6                |
-| Ground access points: |            | 4                |
-| User LEDs:            |            | 3                |
-| User pushbuttons:     |            |        —         |
-| Reset button:         |            |                  |
-| Power switch:         |            |                  |
-| Buzzer option:        |            |                  |
-| microSD option:       |            |                  |
-| LCD option:           |            |                  |
-| Arduino-compatible    |            |                  |
-| bootloader:           |            |                  |
-| USB connector:        |            | B                |
-| USB/regulator         |            | partial          |
-| power selection:      |            |                  |
-| High-performance      |            |                  |
-| reverse-voltage       |            |                  |
-| protection:           |            |                  |
-| Recommended           |            | 7 V to 12 V      |
-| input voltage:        |            |                  |
-| Regulator type (5 V): |            | linear           |
-| Available 5V output current:       | at 3 V in        |        —       |
-|                       | at 5 V in  | —                |
-|                       | at 7 V in  | 1.0 A            |
-|                       | at 9 V in  | 0.5 A            |
-|                       | at 11 V in | 0.35 A           |
-|                       | at 24 V in |        —         |
-|                       | via USB connector    | 0.5 A  |
-| Weight:               |            | 28 g             |
 
 ## Breadboard
 What is a breadboard?
