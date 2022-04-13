@@ -1,5 +1,13 @@
-## HC SR04 - Ultrasonic sensor
-### Description
+## Description
+
+An automatic braking system is an important part of safety technology for automobiles. It is an advanced system, specifically designed to either prevent possible collision, or reduce speed of the moving vehicle, prior to a collision with another vehicle, pedestrian or an obstacle of some sort.
+
+These systems combine sensors, such as Ldr, infrared or ultrasonic to scan for possible objects in front of the vehicle, and then use brake control to prevent collision if the object is, in fact, detected.
+
+
+-------------------------------------------
+### Ultrasonic sensor
+
 An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves.
 An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object’s proximity.  
 #### What is Ultrasound?
@@ -48,12 +56,16 @@ But this is not done! Remember that the pulse indicates the time it took for the
 
                                                                        Distance = 8.5 cm
 
-So, now we know that the object is 8.5 centimeters away from the sensor.
-
+ So, now we know that the object is 8.5 centimeters away from the sensor.
+      
+      
+-----------------------------------------------------------------------
 ## Swot Analysis
 
 ![swot ultrasonic drawio](https://user-images.githubusercontent.com/98897973/163113464-7964a1c6-3e90-4190-9a22-2fa20b2e7e50.png)
 
+
+---------------------------------------------------------------------
 ## 4W's & 1H
 ![ultrasonic 4w   1h drawio](https://user-images.githubusercontent.com/98897973/163113539-eca2e82a-c538-450e-a5c1-135de450ba48.png)
 
