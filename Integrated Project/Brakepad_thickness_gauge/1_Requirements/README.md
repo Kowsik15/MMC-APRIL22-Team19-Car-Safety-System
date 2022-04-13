@@ -102,7 +102,7 @@ A breadboard is a solderless device for temporary prototype with electronics and
 
 ## BLOCK DIAGRAM
 
-![block](https://user-images.githubusercontent.com/98877131/162905030-4af2ecce-760a-443f-848a-7ca2c60b791f.png)
+![block](https://user-images.githubusercontent.com/98877131/163234955-2b190c44-85da-4eff-bcf4-0a9e9420e121.png)
 
 ## FOW CHART
 
