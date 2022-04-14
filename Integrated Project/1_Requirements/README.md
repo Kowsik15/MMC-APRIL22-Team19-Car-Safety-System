@@ -5,6 +5,9 @@ An automatic braking system is an important part of safety technology for automo
 
 These systems combine sensors, such as Ldr, infrared or ultrasonic to scan for possible objects in front of the vehicle, and then use brake control to prevent collision if the object is, in fact, detected.
 
+A Brakepad Thickness Guage is Smart system which uses the ultrasonic sensor to measure the Brakepad thickness.This system helps the automobile from accidents.The thickness of the brake pads are displayed on the display that allowing driver to quickly check the thickness of brake pad material.This system can provide a warning to the driver if the thickness reduces dramatically.
+
+Ultrasonic sensor used for measuring the thickness of pads(i.e distance between the pads
 Automatic brakes are one of many car safety features, and are often integrated with other technology, such as pre-collision systems and adaptive cruise control.
 
 Even though each car manufacturer has its own technology when it comes to automatic braking systems, they all use sensory input as a starting point. Depending on the manufacturer, a system uses sensors such as laser, radar, or even video data, to determine if there are any objects in front of the vehicle. For example, the system monitors traffic in front of the vehicle and assesses the possibility of a collision.
