@@ -292,3 +292,30 @@ The reset button is now next to the USB connector, making it more accessible whe
 |                       | at 24 V in |        —         |
 |                       | via USB connector    | 0.5 A  |
 | Weight:               |            | 28 g             |
+
+
+###
+
+## High Level Requirements
+|ID|Description|
+|------|------|
+|HLR_01| Ultrasonic sensors shall measure the distance of an object using sound waves |
+|HLR_02| LDR shall be able to sense the temperature and light   |
+|HLR_03| Buzzer alert shall be displayed  |
+|HLR_04| Communication protocol between stm32 and Arduino uno  |
+|HLR_05| Thickness measurment |
+|HLR_06| Display the thickness   |
+
+
+## Low Level Requirements
+|ID|Description|
+|------|------|
+|LLR_01| Object required for sensing the ultrasonic waves  |
+|LLR_02| Light source required for sensing ldr |
+|LLR_03| Data  transfer must be continuous from board to board     |
+|LLR_04| LCD should display the exact distance between the vehicles |
+|LLR_05| No alert for thickness higher than threeshold value  |
+|LLR_06| Buzzer alert for low thickness |
+|LLR_07| The exact thickness need to display |
+
+
