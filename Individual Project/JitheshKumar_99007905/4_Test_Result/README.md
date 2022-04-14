@@ -1,3 +1,22 @@
+# Test plan and output
+
+### Test plan is created and verified
+
+## HIGH LEVEL TEST PLAN / Integrated test plan
+
+| Test ID | Description | Input | Expected output | Actual Output | 
+| --- | --- | --- | --- | --- | 
+| 01 | thickness detection | Object | Object Detection(IDE) | Objected Detected | 
+| 02 | Distance display | Object | Distance in cm  | Distance in cm |
+
+
+## LOW LEVEL TEST PLAN
+
+| Test ID | Description | Input | Expected output | Actual Output |
+| --- | --- | --- | --- | --- |
+| 01 | Thickness detection | Thickness | thickness Detection(IDE) | thickness  Detected | 
+| 02 | Data transfer | ultrasonic senses distance | Data transfered | Data transfered |
+| 03 | Distance of brakepads | brakepad | Distance in cm  | Distance in cm |
 
 
 
