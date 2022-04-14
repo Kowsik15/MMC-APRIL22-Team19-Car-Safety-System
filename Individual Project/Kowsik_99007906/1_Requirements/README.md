@@ -129,3 +129,8 @@ Dark resistance after 5 sec	|0.25MΩ|
 
 ![ko](https://user-images.githubusercontent.com/73667634/163115878-2c26ac94-c8a1-45b2-8b71-9741425e7647.png)
 
+
+## 4W's AND 1 H 
+![4w](https://user-images.githubusercontent.com/98877131/163317162-14d5caa4-bc66-4bdf-9f0d-fe8532b45cbc.png)
+
+
