@@ -318,4 +318,5 @@ The reset button is now next to the USB connector, making it more accessible whe
 |LLR_06| Buzzer alert for low thickness |
 |LLR_07| The exact thickness need to display |
 
-
+## 4H & 1H
+![4w](https://user-images.githubusercontent.com/98877131/163323326-2fd91594-57c8-4a14-a830-b996f91f3f3f.png)
