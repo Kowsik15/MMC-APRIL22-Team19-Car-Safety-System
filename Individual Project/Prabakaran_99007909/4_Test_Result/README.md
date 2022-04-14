@@ -16,3 +16,10 @@
 ||LLR_02|   continous display    |  Implemented |
 |HLR_03|LLR_01|    buzzer alert for low thickness |   NOt  Implemented |          
 ||LLR_02|   no alert for thickness higher than threeshold value  | NOT Implemented |   
+
+## WORKING VIDEO
+
+
+
+https://user-images.githubusercontent.com/98877131/163314228-9283143a-eb94-4eda-9bfa-b898839e1cac.mp4
+
